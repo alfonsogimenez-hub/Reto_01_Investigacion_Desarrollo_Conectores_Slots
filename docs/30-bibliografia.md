@@ -1,0 +1,22 @@
+# Bibliografía y fuentes
+
+- 12VHPWR 12+4 pins o  12V-2x6: [https://elchapuzasinformatico.com](https://elchapuzasinformatico.com/2023/09/conector-12v-2x6-vs-12vhpwr/)
+- PEG [https://www.geeknetic.es](https://www.geeknetic.es/Conector-PEG/que-es-y-para-que-sirve)
+- ATX de 24 pines [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/)
+- EPS 8 pines (4+4) [https://www.reddit.com](https://www.reddit.com/r/buildapc/comments/6wez86/44pin_eps_vs_8_pin_eps/?tl=es-es)
+- Molex [https://www.profesionalreview.com](https://www.profesionalreview.com/2019/12/31/conector-molex-todo-lo-que-necesitas-saber/)
+- SATA Alimentacion [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
+- NVMe M.2 / SATA M.2  [https://www.chuwi.com](https://www.chuwi.com/es/news/items/2834.html), [https://www.geeknetic.es](https://www.geeknetic.es/Guia/2189/SSD-M2-NVMe-y-SATA-Caracteristicas-y-Diferencias.html)
+- SAS (Serial Attached SCSI) [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI), [https://blog.elhacker.net](https://blog.elhacker.net/2024/05/diferencias-unidades-disco-duro-sata-sas.html)
+- SATA (Serial ATA) [https://ibericavip.com/](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
+- U.2 [https://hardzone.es](https://hardzone.es/reportajes/que-es/interfaz-u-2-ssd/), [https://es.wikipedia.org](https://es.wikipedia.org/wiki/U.2)
+- PCI Express x1 x4 x8 x16  [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados/), [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/12/10/conectores-pci-express-x16-x8-x4-y-x1/), [https://www.geeknetic.es](https://www.geeknetic.es/Guia/2702/PCI-Express-Caracteristicas-y-Velocidad-de-Todas-sus-Versiones.html), [https://hardzone.es](https://hardzone.es/tutoriales/rendimiento/velocidad-pci-express-pcie/)
+- Slot: M.2 [https://hardzone.es](https://hardzone.es/tutoriales/rendimiento/velocidad-pci-express-pcie/), [https://es.wikipedia.org](https://es.wikipedia.org/wiki/M.2)
+- DisplayPort [(https://en.wikipedia.org](https://en.wikipedia.org/wiki/DisplayPort)
+- HDMI [https://es.wikipedia.org](https://es.wikipedia.org/wiki/High-Definition_Multimedia_Interface)
+- RJ-45 [https://es.wikipedia.org](https://es.wikipedia.org/wiki/RJ-45)
+- USB-A [https://usb.org/](https://usb.org/), [https://www.profesionalreview.com](https://www.profesionalreview.com/2022/10/09/voltaje-usb/)
+- USB-B [https://www.reparacion-ordenadores.com](https://www.reparacion-ordenadores.com/que-significan-los-colores-en-los-puertos-usb-de-un-pc/), 
+[https://www.geeknetic.es](https://www.geeknetic.es/USB-B/que-es-y-para-que-sirve)
+- USB-C [https://usb.org/](https://usb.org), [https://www.xataka.com/](https://www.xataka.com/basics/usb-type-c-que-exactamente-que-se-diferencia-resto)
+- VGA Video Graphics Array [https://en.wikipedia.org](https://es.wikipedia.org/wiki/Video_Graphics_Array)
